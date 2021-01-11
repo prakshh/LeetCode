@@ -1,4 +1,4 @@
-import main.cp.leetcode.ListNode;
+import ListNode;
 
 public class Day_05_82_Remove_Duplicates_from_Sorted_List_II {
     class Solution {
