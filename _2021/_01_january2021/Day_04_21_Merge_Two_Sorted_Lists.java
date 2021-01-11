@@ -1,4 +1,4 @@
-import ListNode;
+import LeetCode.ListNode;
 
 public class Day_04_21_Merge_Two_Sorted_Lists {
 
