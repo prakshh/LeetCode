@@ -1,4 +1,4 @@
-import main.cp.leetcode.ListNode;
+import LeetCode.ListNode;
 
 public class Day_06_1539_Kth_Missing_Positive_Number {
     class Solution {
