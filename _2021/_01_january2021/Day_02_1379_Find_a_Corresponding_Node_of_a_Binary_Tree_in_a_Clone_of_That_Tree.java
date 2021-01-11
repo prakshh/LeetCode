@@ -1,4 +1,4 @@
-import main.cp.leetcode.TreeNode;
+import TreeNode;
 
 import java.util.LinkedList;
 import java.util.Queue;
