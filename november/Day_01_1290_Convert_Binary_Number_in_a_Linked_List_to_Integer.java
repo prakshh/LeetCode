@@ -2,7 +2,7 @@ package main.cp.leetcode.november;
 
 import main.cp.leetcode.ListNode;
 
-import java.util.Stack;
+import java.util.Stack; 
 
 public class Day_01_1290_Convert_Binary_Number_in_a_Linked_List_to_Integer {
     // Iterative
