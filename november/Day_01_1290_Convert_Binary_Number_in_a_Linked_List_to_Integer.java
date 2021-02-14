@@ -4,10 +4,6 @@ import main.cp.leetcode.ListNode;
 
 import java.util.Stack;
 
-/**
- * Created by Naresh Gupta on 1/11/2020 AD.
- * Detailed Video Explanation - https://www.youtube.com/watch?v=AnK8Fbu01t8
- */
 public class Day_01_1290_Convert_Binary_Number_in_a_Linked_List_to_Integer {
     // Iterative
 
