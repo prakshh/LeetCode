@@ -1,8 +1,5 @@
 package main.cp.leetcode.november;
 
-/**
- * Created by Naresh Gupta on 6/11/2020 AD.
- */
 public class Day_06_1283_Find_the_Smallest_Divisor_Given_a_Threshold {
     class Solution {
         public int smallestDivisor(int[] nums, int threshold) {
