@@ -1,9 +1,5 @@
 package main.cp.leetcode.october;
 
-/**
- * Created by Naresh Gupta on 29/10/2020 AD.
- * Detailed Video Explanation https://youtu.be/Zoi9JyGpCX8?t=0
- */
 public class Day_29_849_Maximize_Distance_to_Closest_Person {
     class Solution {
         public int maxDistToClosest(int[] seats) {
