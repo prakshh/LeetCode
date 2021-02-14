@@ -2,10 +2,6 @@ package main.cp.leetcode.october;
 
 import java.util.Arrays;
 
-/**
- * Created by Naresh Gupta on 30/10/2020 AD.
- * Detailed Video Explanation https://www.youtube.com/watch?v=C1DTXdF3s14
- */
 public class Day_30_673_Number_of_Longest_Increasing_Subsequence {
     class Solution {
         public int findNumberOfLIS(int[] nums) {
