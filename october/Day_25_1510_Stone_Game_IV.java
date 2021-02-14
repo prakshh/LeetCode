@@ -1,8 +1,5 @@
 package main.cp.leetcode.october;
 
-/**
- * Detailed Video Explanation https://www.youtube.com/watch?v=iuHLaYMeuQEs
- */
 public class Day_25_1510_Stone_Game_IV {
     // Top Down DP
     class Solution {
