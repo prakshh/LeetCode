@@ -2,9 +2,6 @@ package main.cp.leetcode.november;
 
 import main.cp.leetcode.ListNode;
 
-/**
- * Created by Naresh Gupta on 3/11/2020 AD.
- */
 public class Day_02_147_Insertion_Sort_List {
     class Solution {
         public ListNode insertionSortList(ListNode head) {
