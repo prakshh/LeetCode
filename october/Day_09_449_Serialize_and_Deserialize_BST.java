@@ -5,10 +5,6 @@ import main.cp.leetcode.TreeNode;
 import java.util.LinkedList;
 import java.util.Queue;
 
-/**
- * Detailed Video Explanation - https://www.youtube.com/watch?v=lP2yP8Iy88c
- */
-
 public class Day_09_449_Serialize_and_Deserialize_BST {
 
     // DFS preorder traversal
