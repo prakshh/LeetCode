@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="_2021/_01_january2021"/>
+	<classpathentry kind="src" path="december2020"/>
+	<classpathentry kind="src" path="october"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
