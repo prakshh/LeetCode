@@ -1,6 +1,6 @@
 
 public class Day_1_Number_of_1_Bits {
-	public class Solution {
+	class Solution {
 	    // you need to treat n as an unsigned value
 	    public int hammingWeight(int n) {
 	        int count = 0;
