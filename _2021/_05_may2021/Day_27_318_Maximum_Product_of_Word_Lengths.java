@@ -1,4 +1,6 @@
-class Solution {
+public class Day_27_318_Maximum_Product_of_Word_Lengths {
+
+	class Solution {
 
     // TC : O(n2)
     // SC : O(n)
@@ -34,4 +36,6 @@ class Solution {
         }
         return state;
     }
+}
+	
 }
