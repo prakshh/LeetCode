@@ -1,5 +1,5 @@
 
-public class Day_09_1690_Stone_Game_VII {
+public class Day_11_1690_Stone_Game_VII {
 	
 	class Solution {
 
