@@ -65,4 +65,4 @@ public class Day_13_336_Palindrome_Pairs {
 	    }
 	}
 
-}
+} 
