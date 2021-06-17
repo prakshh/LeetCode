@@ -22,7 +22,7 @@ public class Day_14_1710_Maximum_Units_on_a_Truck {
 	            }
 	        }
 	        return maxUnitOfboxes;
-	    }
+	    } 
 	}
 
 }
