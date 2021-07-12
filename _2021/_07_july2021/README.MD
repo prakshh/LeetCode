@@ -8,3 +8,7 @@
 6. [Reduce Array Size to The Half - Day 6](/_2021/_07_july2021/Day_06_566_Reshape_the_Matrix.java)
 7. [Kth Smallest Element in a Sorted Matrix - Day 7](/_2021/_07_july2021/Day_07_378_Kth_Smallest_Element_in_a_Sorted_Matrix.java)
 8. [Maximum Length of Repeated Subarray - Day 8](/_2021/_07_july2021/Day_08_718_Maximum_Length_of_Repeated_Subarray.java)
+9. [Longest Increasing Subsequence - Day 9](Day_09_300_Longest_Increasing_Subsequence.java)
+
+
+
