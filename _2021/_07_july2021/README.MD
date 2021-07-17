@@ -12,5 +12,6 @@
 10. [Decode Ways II - Day 10](Day_10_639_Decode_Ways_II.java)
 11. [Find Median from Data Stream - Day 11](Day_11_295_Find_Median_from_Data_Stream.java)
 12. [Isomorphic Strings - Day 12](Day_12_205_Isomorphic_Strings.java)
+13. [Find Peak Element - Day 13](Day_13_162_Find_Peak_Element.java)
 
 
