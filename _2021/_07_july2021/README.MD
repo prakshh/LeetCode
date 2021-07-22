@@ -17,5 +17,5 @@
 15. [Valid Triangle Number - Day 15](Day_15_611_Valid_Triangle_Number.java)
 16. [4 Sum - Day 16](Day_16_18_4Sum.java)
 17. [Three Equal Parts - Day 17](Day_17_927_Three_Equal_Parts.java)
-
+18. [Reverse Nodes in k-Group - Day 18](Day_18_25_Reverse_Nodes_in_k_Group.java)
 
