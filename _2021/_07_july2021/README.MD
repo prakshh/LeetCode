@@ -18,4 +18,5 @@
 16. [4 Sum - Day 16](Day_16_18_4Sum.java)
 17. [Three Equal Parts - Day 17](Day_17_927_Three_Equal_Parts.java)
 18. [Reverse Nodes in k-Group - Day 18](Day_18_25_Reverse_Nodes_in_k_Group.java)
+19. [Lowest Common Ancestor of a Binary Search Tree - Day 19](Day_19_235_Lowest_Common_Ancestor_of_a_BST.java)
 
