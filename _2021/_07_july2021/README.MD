@@ -22,4 +22,5 @@
 20. [Shuffle an Array - Day 20](Day_20_384_Shuffle_an_Array.java)
 21. [Push Dominoes - Day 21](Day_21_838_Push_Dominoes.java)
 22. [Partition Array into Disjoint Intervals - Day 22](Day_22_915_Partition_Array_into_Disjoint_Intervals.java)
+23. [Binary Tree Pruning - Day 23](Day_23_814_Binary_Tree_Pruning.java)
 
