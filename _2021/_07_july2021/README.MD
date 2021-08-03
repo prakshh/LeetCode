@@ -27,5 +27,6 @@
 25. [Non-negative Integers without Consecutive Ones - Day 25](Day_25_600_Non_negative_Integers_without_Consecutive_Ones.java)
 26. [Convert Sorted Array to Binary Search Tree - Day 26](Day_26_108_Convert_Sorted_Array_to_BST.java)
 27. [3Sum Closest - Day 27](Day_27_16_3Sum_Closest.java)
+28. [Beautiful Array - Day 28](Day_28_932_Beautiful_Array.java)
 
 
