@@ -24,4 +24,5 @@
 22. [Partition Array into Disjoint Intervals - Day 22](Day_22_915_Partition_Array_into_Disjoint_Intervals.java)
 23. [Binary Tree Pruning - Day 23](Day_23_814_Binary_Tree_Pruning.java)
 24. [Word Ladder II - Day 24](Day_24_126_Word_Ladder_II.java)
+24. [Non-negative Integers without Consecutive Ones - Day 25](Day_25_600_Non_negative_Integers_without_Consecutive_Ones.java)
 
