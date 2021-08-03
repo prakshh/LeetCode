@@ -29,5 +29,6 @@
 27. [3Sum Closest - Day 27](Day_27_16_3Sum_Closest.java)
 28. [Beautiful Array - Day 28](Day_28_932_Beautiful_Array.java)
 29. [01 Matrix - Day 29](Day_29_542_01_Matrix.java)
+30. [Map Sum Pairs - Day 30](Day_30_677_Map_Sum_Pairs.java)
 
 
