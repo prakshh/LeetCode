@@ -4,5 +4,6 @@
 2. [Two Sum - Day 2](/_2021/_08_august2021/Day_02_1_Two_Sum.java) 
 3. [Subsets II - Day 3](/_2021/_08_august2021/Day_03_90_Subsets_II.java) 
 4. [Path Sum II - Day 4](/_2021/_08_august2021/Day_04_113_Path_Sum_II.java) 
+5. [Stone Game - Day 5](/_2021/_08_august2021/Day_05_877_Stone_Game.java) 
 
 
