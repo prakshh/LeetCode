@@ -11,5 +11,6 @@
 9. [Add Strings - Day 9](/_2021/_08_august2021/Day_09_415_Add_Strings.java) 
 10. [Flip String to Monotone Increasing - Day 10](/_2021/_08_august2021/Day_10_926_Flip_String_to_Monotone_Increasing.java) 
 11. [Array of Doubled Pairs - Day 11](/_2021/_08_august2021/Day_11_954_Array_of_Doubled_Pairs.java) 
+12. [Group Anagrams - Day 12](/_2021/_08_august2021/Day_12_49_Group_Anagrams.java) 
 
 
