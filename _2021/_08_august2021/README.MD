@@ -13,5 +13,6 @@
 11. [Array of Doubled Pairs - Day 11](/_2021/_08_august2021/Day_11_954_Array_of_Doubled_Pairs.java) 
 12. [Group Anagrams - Day 12](/_2021/_08_august2021/Day_12_49_Group_Anagrams.java) 
 13. [Set Matrix Zeroes - Day 13](/_2021/_08_august2021/Day_13_73_Set_Matrix_Zeroes.java) 
+14. [Remove Boxes - Day 14](/_2021/_08_august2021/Day_14_546_Remove_Boxes.java) 
 
 
