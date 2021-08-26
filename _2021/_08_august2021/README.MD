@@ -21,5 +21,6 @@
 19. [Maximum Product of Splitted Binary Tree - Day 19](/_2021/_08_august2021/Day_19_1339_Maximum_Product_of_Splitted_Binary_Tree.java) 
 20. [Valid Sudoku - Day 20](/_2021/_08_august2021/Day_20_36_Valid_Sudoku.java) 
 21. [Sudoku Solver - Day 21](/_2021/_08_august2021/Day_21_37_Sudoku_Solver.java) 
+22. [Rectangle Area II - Day 22](/_2021/_08_august2021/Day_22_850_Rectangle_Area_II.java) 
 
 
