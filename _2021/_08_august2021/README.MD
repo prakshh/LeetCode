@@ -28,5 +28,6 @@
 26. [Verify Preorder Serialization of a Binary Tree - Day 26](/_2021/_08_august2021/Day_26_331_Verify_Preorder_Serialization_of_Binary_Tree.java) 
 27. [Longest Uncommon Subsequence II - Day 27](/_2021/_08_august2021/Day_27_522_Longest_Uncommon_Subsequence_II.java) 
 28. [Maximum Profit in Job Scheduling - Day 28](/_2021/_08_august2021/Day_28_1235_Maximum_Profit_in_Job_Scheduling.java) 
+29. [Patching Array - Day 29](/_2021/_08_august2021/Day_29_330_Patching_Array.java) 
 
 
