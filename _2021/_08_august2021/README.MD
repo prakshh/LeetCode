@@ -26,5 +26,6 @@
 24. [Complex Number Multiplication - Day 24](/_2021/_08_august2021/Day_24_537_Complex_Number_Multiplication.java) 
 25. [Sum of Square Numbers - Day 25](/_2021/_08_august2021/Day_25_633_Sum_of_Square_Numbers.java) 
 26. [Verify Preorder Serialization of a Binary Tree - Day 26](/_2021/_08_august2021/Day_26_331_Verify_Preorder_Serialization_of_Binary_Tree.java) 
+27. [Longest Uncommon Subsequence II - Day 25](/_2021/_08_august2021/Day_27_522_Longest_Uncommon_Subsequence_II.java) 
 
 
