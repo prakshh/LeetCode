@@ -24,5 +24,6 @@
 22. [Rectangle Area II - Day 22](/_2021/_08_august2021/Day_22_850_Rectangle_Area_II.java) 
 23. [Two Sum IV - Input is a BST - Day 23](/_2021/_08_august2021/Day_23_653_Two_Sum_IV_Input_BST.java) 
 24. [Complex Number Multiplication - Day 24](/_2021/_08_august2021/Day_24_537_Complex_Number_Multiplication.java) 
+25. [Sum of Square Numbers - Day 25](/_2021/_08_august2021/Day_25_633_Sum_of_Square_Numbers.java) 
 
 
