@@ -30,5 +30,6 @@
 28. [Maximum Profit in Job Scheduling - Day 28](/_2021/_08_august2021/Day_28_1235_Maximum_Profit_in_Job_Scheduling.java) 
 29. [Patching Array - Day 29](/_2021/_08_august2021/Day_29_330_Patching_Array.java) 
 30. [Range Addition II - Day 30](/_2021/_08_august2021/Day_30_598_Range_Addition_II.java) 
+31. [Find Minimum in Rotated Sorted Array - Day 31](/_2021/_08_august2021/Day_31_153_Find_Minimum_in_Rotated_Sorted_Array.java) 
 
 
