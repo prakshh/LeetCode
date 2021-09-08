@@ -5,3 +5,4 @@
 3. [Erect the Fence - Day 3](/_2021/_09_september2021/Day_03_587_Erect_the_Fence.java) 
 4. [Sum of Distances in Tree - Day 4](/_2021/_09_september2021/Day_04_834_Sum_of_Distances_in_Tree.java) 
 5. [Orderly Queue - Day 5](/_2021/_09_september2021/Day_05_899_Orderly_Queue.java) 
+6. [Slowest Key - Day 6](/_2021/_09_september2021/Day_06_1629_Slowest_Key.java) 
