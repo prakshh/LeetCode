@@ -7,4 +7,5 @@
 5. [Orderly Queue - Day 5](/_2021/_09_september2021/Day_05_899_Orderly_Queue.java) 
 6. [Slowest Key - Day 6](/_2021/_09_september2021/Day_06_1629_Slowest_Key.java) 
 7. [Reverse Linked List - Day 7](/_2021/_09_september2021/Day_07_206_Reverse_Linked_List.java)
+8. [Shifting Letters - Day 8](/_2021/_09_september2021/Day_08_848_Shifting_Letters.java)
 
