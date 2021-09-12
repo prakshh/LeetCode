@@ -13,7 +13,7 @@ public class Day_05_877_Stone_Game {
 	                int max2 = piles[y] + pile[x][y - 1];
 	                if (max1 >= max2) pile[x][y] = max1;
 	                else pile[x][y] = max2;
-	                x --;
+	                x--;
 	            }
 	        }
 	        int max = pile[0][piles.length - 1];
