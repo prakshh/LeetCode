@@ -17,6 +17,7 @@
 15. [Longest Turbulent Subarray - Day 15](/_2021/_09_september2021/Day_15_978_Longest_Turbulent_Subarray.java)
 16. [Spiral Matrix - Day 16](/_2021/_09_september2021/Day_16_54_Spiral_Matrix.java)
 17. [Intersection of Two Arrays II - Day 17](/_2021/_09_september2021/Day_17_350_Intersection_of_Two_Arrays_II.java)
+18. [Expression Add Operators - Day 18](/_2021/_09_september2021/Day_18_282_Expression_Add_Operators.java)
 
 
 
