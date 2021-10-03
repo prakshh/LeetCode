@@ -21,6 +21,7 @@
 19. [Distinct Subsequences - Day 19](/_2021/_09_september2021/Day_19_115_Distinct_Subsequences.java)
 20. [Find Winner on a Tic Tac Toe Game - Day 20](/_2021/_09_september2021/Day_20_21_Find_Winner_on_a_Tic_Tac_Toe_Game.java)
 21. [Max Consecutive Ones - Day 21](/_2021/_09_september2021/Day_21_485_Max_Consecutive_Ones.java)
+22. [Maximum Length of a Concatenated String with Unique Characters - Day 22](/_2021/_09_september2021/Day_22_1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters.java)
 
 
 
