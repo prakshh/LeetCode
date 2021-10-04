@@ -24,4 +24,5 @@
 22. [Maximum Length of a Concatenated String with Unique Characters - Day 22](/_2021/_09_september2021/Day_22_1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters.java)
 23. [Break a Palindrome - Day 23](/_2021/_09_september2021/Day_23_1328_Break_a_Palindrome.java)
 24. [N-th Tribonacci Number - Day 24](/_2021/_09_september2021/Day_24_1137_Nth_Tribonacci_Number.java)
+25. [Shortest Path in a Grid with Obstacles Elimination - Day 25](/_2021/_09_september2021/Day_25_1293_Shortest_Path_in_a_Grid_with_Obstacles_Elimination.java)
 
