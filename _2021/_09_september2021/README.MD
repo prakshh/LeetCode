@@ -29,6 +29,4 @@
 27. [Unique Email Addresses - Day 27](/_2021/_09_september2021/Day_27_929_Unique_Email_Addresses.java)
 28. [Sort Array By Parity II - Day 28](/_2021/_09_september2021/Day_28_922_Sort_Array_By_Parity_II.java)
 29. [Split Linked List in Parts - Day 29](/_2021/_09_september2021/Day_29_725_Split_Linked_List_in_Parts.java)
-
-
-
+30. [Partition to K Equal Sum Subsets - Day 30](/_2021/_09_september2021/Day_30_698_Partition_to_K_Equal_Sum_Subsets.java)
