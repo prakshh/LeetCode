@@ -6,3 +6,4 @@
 4. [Island Perimeter - Day 4](/_2021/_10_october2021/Day_04_463_Island_Perimeter.java) 
 5. [Climbing Stairs - Day 5](/_2021/_10_october2021/Day_05_70_Climbing_Stairs.java) 
 6. [Find All Duplicates in an Array - Day 6](/_2021/_10_october2021/Day_06_442_Find_All_Duplicates_in_an_Array.java) 
+7. [Word Search - Day 7](/_2021/_10_october2021/Day_07_79_Word_Search.java) 
