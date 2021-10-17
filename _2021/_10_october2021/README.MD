@@ -11,4 +11,5 @@
 9. [Word Search II - Day 9](/_2021/_10_october2021/Day_09_212_Word_Search_II.java) 
 10. [Bitwise AND of Numbers Range - Day 10](/_2021/_10_october2021/Day_10_201_Bitwise_AND_of_Numbers_Range.java) 
 11. [Diameter of Binary Tree - Day 11](/_2021/_10_october2021/Day_11_543_Diameter_of_Binary_Tree.java) 
+12. [Guess Number Higher or Lower - Day 12](/_2021/_10_october2021/Day_12_374_Guess_Number_Higher_or_Lower.java) 
 
