@@ -12,4 +12,5 @@
 10. [Bitwise AND of Numbers Range - Day 10](/_2021/_10_october2021/Day_10_201_Bitwise_AND_of_Numbers_Range.java) 
 11. [Diameter of Binary Tree - Day 11](/_2021/_10_october2021/Day_11_543_Diameter_of_Binary_Tree.java) 
 12. [Guess Number Higher or Lower - Day 12](/_2021/_10_october2021/Day_12_374_Guess_Number_Higher_or_Lower.java) 
+13. [Construct Binary Search Tree from Preorder Traversal - Day 13](/_2021/_10_october2021/Day_13_1008_Construct_Binary_Search_Tree_from_Preorder_Traversal.java) 
 
