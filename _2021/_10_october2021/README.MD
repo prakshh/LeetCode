@@ -19,4 +19,5 @@
 17. [Path Sum III - Day 17](/_2021/_10_october2021/Day_17_437_Path_Sum_III.java) 
 18. [Cousins in Binary Tree - Day 18](/_2021/_10_october2021/Day_18_993_Cousins_in_Binary_Tree.java) 
 19. [Next Greater Element I - Day 19](/_2021/_10_october2021/Day_19_496_Next_Greater_Element_I.java) 
+20. [Reverse Words in a String - Day 20](/_2021/_10_october2021/Day_20_151_Reverse_Words_in_a_String.java) 
 
