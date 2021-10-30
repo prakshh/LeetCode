@@ -20,4 +20,6 @@
 18. [Cousins in Binary Tree - Day 18](/_2021/_10_october2021/Day_18_993_Cousins_in_Binary_Tree.java) 
 19. [Next Greater Element I - Day 19](/_2021/_10_october2021/Day_19_496_Next_Greater_Element_I.java) 
 20. [Reverse Words in a String - Day 20](/_2021/_10_october2021/Day_20_151_Reverse_Words_in_a_String.java) 
+21. [Insert Delete GetRandom O(1) - Day 21](/_2021/_10_october2021/Day_21_380_Insert_Delete_GetRandom_O(1).java)
 
+22. Insert Delete GetRandom O(1)
