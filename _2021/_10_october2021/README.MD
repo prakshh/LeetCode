@@ -21,5 +21,5 @@
 19. [Next Greater Element I - Day 19](/_2021/_10_october2021/Day_19_496_Next_Greater_Element_I.java) 
 20. [Reverse Words in a String - Day 20](/_2021/_10_october2021/Day_20_151_Reverse_Words_in_a_String.java) 
 21. [Insert Delete GetRandom O(1) - Day 21](/_2021/_10_october2021/Day_21_380_Insert_Delete_GetRandom_O(1).java)
+22. [Sort Characters By Frequency - Day 22](/_2021/_10_october2021/Day_22_451_Sort_Characters_By_Frequency.java)
 
-22. Insert Delete GetRandom O(1)
