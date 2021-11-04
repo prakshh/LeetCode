@@ -24,4 +24,5 @@
 22. [Sort Characters By Frequency - Day 22](/_2021/_10_october2021/Day_22_451_Sort_Characters_By_Frequency.java)
 23. [Find Minimum in Rotated Sorted Array II - Day 23](/_2021/_10_october2021/Day_23_154_Find_Minimum_in_Rotated_Sorted_Array_II.java)
 24. [Count Complete Tree Nodes - Day 24](/_2021/_10_october2021/Day_24_222_Count_Complete_Tree_Nodes.java)
+25. [Min Stack - Day 25](/_2021/_10_october2021/Day_25_155_Min_Stack.java)
 
