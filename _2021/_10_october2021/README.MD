@@ -25,4 +25,5 @@
 23. [Find Minimum in Rotated Sorted Array II - Day 23](/_2021/_10_october2021/Day_23_154_Find_Minimum_in_Rotated_Sorted_Array_II.java)
 24. [Count Complete Tree Nodes - Day 24](/_2021/_10_october2021/Day_24_222_Count_Complete_Tree_Nodes.java)
 25. [Min Stack - Day 25](/_2021/_10_october2021/Day_25_155_Min_Stack.java)
+26. [Invert Binary Tree - Day 26](/_2021/_10_october2021/Day_26_226_Invert_Binary_Tree.java)
 
