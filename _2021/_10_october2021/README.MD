@@ -26,4 +26,5 @@
 24. [Count Complete Tree Nodes - Day 24](/_2021/_10_october2021/Day_24_222_Count_Complete_Tree_Nodes.java)
 25. [Min Stack - Day 25](/_2021/_10_october2021/Day_25_155_Min_Stack.java)
 26. [Invert Binary Tree - Day 26](/_2021/_10_october2021/Day_26_226_Invert_Binary_Tree.java)
+27. [Sort Colors - Day 27](/_2021/_10_october2021/Day_27_75_Sort_Colors.java)
 
