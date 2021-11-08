@@ -28,4 +28,5 @@
 26. [Invert Binary Tree - Day 26](/_2021/_10_october2021/Day_26_226_Invert_Binary_Tree.java)
 27. [Sort Colors - Day 27](/_2021/_10_october2021/Day_27_75_Sort_Colors.java)
 28. [3Sum - Day 28](/_2021/_10_october2021/Day_28_15_3Sum.java)
+29. [Rotting Oranges - Day 29](/_2021/_10_october2021/Day_29_994_Rotting_Oranges.java)
 
