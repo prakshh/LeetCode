@@ -30,4 +30,5 @@
 28. [3Sum - Day 28](/_2021/_10_october2021/Day_28_15_3Sum.java)
 29. [Rotting Oranges - Day 29](/_2021/_10_october2021/Day_29_994_Rotting_Oranges.java)
 30. [Longest Duplicate Substring - Day 30](/_2021/_10_october2021/Day_30_1044_Longest_Duplicate_Substring.java)
+31. [Flatten a Multilevel Doubly Linked List - Day 31](/_2021/_10_october2021/Day_31_430_Flatten_a_Multilevel_Doubly_Linked_List.java)
 
