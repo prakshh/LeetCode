@@ -6,3 +6,4 @@
 4. [Sum of Left Leaves - Day 4](/_2021/_11_november2021/Day_04_404_Sum_of_Left_Leaves.java) 
 5. [Arranging Coins - Day 5](/_2021/_11_november2021/Day_05_441_Arranging_Coins.java) 
 6. [Single Number III - Day 6](/_2021/_11_november2021/Day_06_260_Single_Number_III.java) 
+7. [Multiply Strings - Day 7](/_2021/_11_november2021/Day_07_43_Multiply_Strings.java) 
