@@ -7,3 +7,4 @@
 5. [Arranging Coins - Day 5](/_2021/_11_november2021/Day_05_441_Arranging_Coins.java) 
 6. [Single Number III - Day 6](/_2021/_11_november2021/Day_06_260_Single_Number_III.java) 
 7. [Multiply Strings - Day 7](/_2021/_11_november2021/Day_07_43_Multiply_Strings.java) 
+8. [Unique Binary Search Trees - Day 8](/_2021/_11_november2021/Day_08_96_Unique_Binary_Search_Trees.java) 
