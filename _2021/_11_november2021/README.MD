@@ -8,3 +8,4 @@
 6. [Single Number III - Day 6](/_2021/_11_november2021/Day_06_260_Single_Number_III.java) 
 7. [Multiply Strings - Day 7](/_2021/_11_november2021/Day_07_43_Multiply_Strings.java) 
 8. [Unique Binary Search Trees - Day 8](/_2021/_11_november2021/Day_08_96_Unique_Binary_Search_Trees.java) 
+9. [Number of Valid Words for Each Puzzle - Day 9](/_2021/_11_november2021/Day_09_1178_Number_of_Valid_Words_for_Each_Puzzle.java) 
