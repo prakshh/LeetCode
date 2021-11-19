@@ -9,3 +9,4 @@
 7. [Multiply Strings - Day 7](/_2021/_11_november2021/Day_07_43_Multiply_Strings.java) 
 8. [Unique Binary Search Trees - Day 8](/_2021/_11_november2021/Day_08_96_Unique_Binary_Search_Trees.java) 
 9. [Number of Valid Words for Each Puzzle - Day 9](/_2021/_11_november2021/Day_09_1178_Number_of_Valid_Words_for_Each_Puzzle.java) 
+10. [Best Time to Buy and Sell Stock II - Day 10](/_2021/_11_november2021/Day_10_122_Best_Time_to_Buy_and_Sell_Stock_II.java) 
