@@ -12,3 +12,4 @@
 10. [Best Time to Buy and Sell Stock II - Day 10](/_2021/_11_november2021/Day_10_122_Best_Time_to_Buy_and_Sell_Stock_II.java) 
 11. [Minimum Value to Get Positive Step by Step Sum - Day 11](/_2021/_11_november2021/Day_11_1413_Minimum_Value_to_Get_Positive_Step_by_Step_Sum.java) 
 12. [Remove Linked List Elements - Day 12](/_2021/_11_november2021/Day_12_203_Remove_Linked_List_Elements.java) 
+13. [Daily Temperatures - Day 12](/_2021/_11_november2021/Day_13_739_Daily_Temperatures.java) 
