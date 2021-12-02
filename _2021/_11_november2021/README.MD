@@ -21,3 +21,4 @@
 19. [Hamming Distance - Day 19](/_2021/_11_november2021/Day_19_461_Hamming_Distance.java) 
 20. [Single Element in a Sorted Array - Day 20](/_2021/_11_november2021/Day_20_540_Single_Element_in_a_Sorted_Array.java) 
 21. [Construct Binary Tree from Inorder and Postorder Traversal - Day 21](/_2021/_11_november2021/Day_21_106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.java) 
+22. [Delete Node in a BST - Day 22](/_2021/_11_november2021/Day_22_450_Delete_Node_in_a_BST.java) 
