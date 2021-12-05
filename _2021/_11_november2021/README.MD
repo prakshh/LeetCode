@@ -23,3 +23,4 @@
 21. [Construct Binary Tree from Inorder and Postorder Traversal - Day 21](/_2021/_11_november2021/Day_21_106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.java) 
 22. [Delete Node in a BST - Day 22](/_2021/_11_november2021/Day_22_450_Delete_Node_in_a_BST.java) 
 23. [Largest Component Size by Common Factor - Day 23](/_2021/_11_november2021/Day_23_952_Largest_Component_Size_by_Common_Factor.java) 
+24. [Interval_List_Intersections - Day 24](/_2021/_11_november2021/Day_24_986_Interval_List_Intersections.java) 
