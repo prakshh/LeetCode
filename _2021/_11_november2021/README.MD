@@ -25,3 +25,4 @@
 23. [Largest Component Size by Common Factor - Day 23](/_2021/_11_november2021/Day_23_952_Largest_Component_Size_by_Common_Factor.java) 
 24. [Interval List Intersections - Day 24](/_2021/_11_november2021/Day_24_986_Interval_List_Intersections.java) 
 25. [Maximum Subarray - Day 25](/_2021/_11_november2021/Day_25_53_Maximum_Subarray.java) 
+26. [Search Insert Position - Day 26](/_2021/_11_november2021/Day_26_35_Search_Insert_Position.java) 
