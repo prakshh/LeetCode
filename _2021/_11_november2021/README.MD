@@ -29,3 +29,4 @@
 27. [Product of Array Except Self - Day 27](/_2021/_11_november2021/Day_27_238_Product_of_Array_Except_Self.java) 
 28. [All Paths From Source to Target - Day 28](/_2021/_11_november2021/Day_28_797_All_Paths_From_Source_to_Target.java) 
 29. [Accounts Merge - Day 29](/_2021/_11_november2021/Day_29_721_Accounts_Merge.java) 
+30. [Maximal Rectangle - Day 30](/_2021/_11_november2021/Day_30_85_Maximal_Rectangle.java) 
