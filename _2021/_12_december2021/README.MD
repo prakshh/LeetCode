@@ -2,3 +2,4 @@
 
 1. [House Robber - Day 1](/_2021/_11_november2021/Day_01_198_House_Robber.java) 
 2. [Odd Even Linked List - Day 2](/_2021/_11_november2021/Day_02_328_Odd_Even_Linked_List.java) 
+3. [Maximum Product Subarray - Day 2](/_2021/_11_november2021/Day_03_152_Maximum_Product_Subarray.java) 
