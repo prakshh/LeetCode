@@ -5,3 +5,4 @@
 3. [Maximum Product Subarray - Day 3](/_2021/_11_november2021/Day_03_152_Maximum_Product_Subarray.java) 
 4. [Stream of Characters - Day 4](/_2021/_11_november2021/Day_04_1032_Stream_of_Characters.java) 
 5. [House Robber III - Day 5](/_2021/_11_november2021/Day_05_337_House_Robber_III.java) 
+6. [Minimum Cost to Move Chips to The Same Position - Day 6](/_2021/_11_november2021/Day_06_1217_Minimum_Cost_to_Move_Chips_to_The_Same_Position.java) 
