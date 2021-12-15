@@ -7,4 +7,5 @@
 5. [House Robber III - Day 5](/_2021/_11_november2021/Day_05_337_House_Robber_III.java) 
 6. [Minimum Cost to Move Chips to The Same Position - Day 6](/_2021/_11_november2021/Day_06_1217_Minimum_Cost_to_Move_Chips_to_The_Same_Position.java) 
 7. [Convert Binary Number in a Linked List to Integer - Day 7](/_2021/_11_november2021/Day_07_1290_Convert_Binary_Number_in_a_Linked_List_to_Integer.java) 
-8. [563. Binary Tree Tilt - Day 8](/_2021/_11_november2021/Day_08_563_Binary_Tree_Tilt.java) 
+8. [Binary Tree Tilt - Day 8](/_2021/_11_november2021/Day_08_563_Binary_Tree_Tilt.java) 
+9. [Jump Game III - Day 9](/_2021/_11_november2021/Day_09_1306_Jump_Game_III.java) 
